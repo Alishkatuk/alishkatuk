@@ -18,7 +18,7 @@
 
 
 <div>
-  <img src = "https://github.com/ryo-ma/github-profile-trophy.vercel username=Alishkatuk" alt=""/>
+
 <div>
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/92315152-e9c56600-f01c-11ea-9536-1bfbb158cfcb.png">
