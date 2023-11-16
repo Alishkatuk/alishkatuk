@@ -29,7 +29,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alishatuk)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alishkatuk&langs_count=8)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alishkatuk)](https://github.com/ashutosh00710/github-readme-activity-graph)
