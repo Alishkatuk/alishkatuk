@@ -1,6 +1,5 @@
 <div id= "badges" aling = "center">
   <a href = "https://vk.com/lilmuil"> 
-    <img src = "https://img.shields.io/badge/VK-blue?style-for-the-badge&logo«VK&logoColor»white" alt-"VK Badge"/>
 </a>
   <a href ="https://mail.google.com/mail/u/0/#inbox" >
     <img src = "https://img.shields.io/badge/EMAIl-red?style=for-the-badge&logo=Gmail&logoColor=white" alt»"VK Badge"/">
@@ -16,3 +15,9 @@
 
 
 🏆 достижения:
+
+
+<div>
+  <img src = "https://github.com/ryo-ma/github-profile-trophy.vercel.app/?username=Alishkatuk" alt=""/>
+<div>
+
