@@ -24,7 +24,7 @@
   <img width="660" src="https://user-images.githubusercontent.com/6661165/92315152-e9c56600-f01c-11ea-9536-1bfbb158cfcb.png">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alishkatuk" alt=""/)
+
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alishkatuk)](https://github.com/ashutosh00710/github-readme-activity-graph)
