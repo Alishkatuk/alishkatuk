@@ -8,7 +8,7 @@
 <div id= "viewport" aling = "center">
 <img src = "https://irtuganova.com/ghpvc/Alishkatuk = rompersStomper&style=flag-squar&color=blue" alt=""/>
 </div>
-<div> id = "heythere" aling ="center">
+
 <h1> Профиль на GITHUB </h1>
 </div>
 🙇‍♀️ Обо мне:
